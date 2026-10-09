@@ -19,7 +19,7 @@
     "id": 2,
     "title": "Implement File Storage Model",
     "description": "Use node:fs/promises to read and write tasks to tasks.json",
-    "status": "IN_PROGRESS",
+    "status": "COMPLETED",
     "priority": "HIGH",
     "createdAt": "Today"
   },
