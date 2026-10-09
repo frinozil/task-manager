@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1791545047562,
+    "title": "Task Test",
+    "description": "Hello",
+    "status": "COMPLETED",
+    "priority": "HIGH",
+    "createdAt": "10/9/2026"
+  },
+  {
+    "id": 1,
+    "title": "Set up Node.js & Express server",
+    "description": "Initialize server directory, install express, and configure health endpoint",
+    "status": "COMPLETED",
+    "priority": "HIGH",
+    "createdAt": "Today"
+  },
+  {
+    "id": 2,
+    "title": "Implement File Storage Model",
+    "description": "Use node:fs/promises to read and write tasks to tasks.json",
+    "status": "IN_PROGRESS",
+    "priority": "HIGH",
+    "createdAt": "Today"
+  },
+  {
+    "id": 3,
+    "title": "Connect React Frontend to Express API",
+    "description": "Replace client mock data with real fetch calls to http://localhost:5000",
+    "status": "COMPLETED",
+    "priority": "MEDIUM",
+    "createdAt": "Tomorrow"
+  }
+]
